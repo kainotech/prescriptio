@@ -1,0 +1,121 @@
+.mid {
+    background-color: aqua;
+    display: inline-block;
+    width: 63%;
+    margin: auto;
+}
+
+.navbar {
+
+    display: inline-block;
+}
+
+
+
+
+.navbar li {
+
+    list-style: none;
+    display: inline-block;
+
+    margin: auto;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: rgb(29, 25, 231);
+    font-size: 18px;
+    padding: 8px 20px;
+}
+
+.navbar li a:hover {
+    color: rgb(151, 7, 247);
+    border: darkmagenta;
+    border-radius: 2px;
+    font-size: 20px;
+}
+
+.navbar li a:active {
+    background-color: deepskyblue;
+    border-radius: 5px;
+}
+
+.right {
+    background-color: aqua;
+    display: inline-block;
+    width: 8%;
+
+    font-size: 18px;
+    padding: 18px 26px;
+    color: #1d19e7;
+}
+
+.right {
+    background-color: aqua;
+    display: inline-block;
+    width: 8%;
+
+    font-size: 18px;
+    padding: 18px 26px;
+    color: #1d19e7;
+}
+
+.right a {
+    text-decoration: none;
+}
+
+.right:hover {
+    font-weight: bolder;
+}
+
+.left {
+    background-color: rgb(3, 1, 19);
+    display: inline-block;
+    width: 17%;
+    font-size: 18px;
+    padding: 18px 17px;
+    color: #1d19e7;
+
+
+}
+
+.left a {
+    text-decoration: none;
+}
+
+.left:hover {
+    font-weight: bolder;
+}
+
+.color-nav{
+    background-color: white;
+    color: red;
+    display: flex;
+}
+
+.nav-item{
+    color: #1b234d !important;
+}
+
+.navbar-brand{
+
+    color: #1b234d !important;
+    font-weight: 600 !important;
+}
+
+.button-start{
+    color: white;
+    background-color: #1b234d;
+    border-color: #1b234d;
+    /* outline-style: auto; */
+    
+}
+
+.Main-buttonsSection-4{
+    margin-bottom: 0px;
+}
+
+.table-head{
+    color: #1b234d;
+}
+
